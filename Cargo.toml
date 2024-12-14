@@ -2,7 +2,7 @@
 name = "dadbs-node"
 version = "0.1.0"
 edition = "2021"
-authors = ["DADBS Team"]
+authors = ["Orixa Team"]
 description = "Decentralized Autonomous Database System Node - TestNet"
 
 [dependencies]
